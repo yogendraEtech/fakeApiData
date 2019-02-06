@@ -1,11 +1,11 @@
 {
-    todoName: 'Morning Activities',
-    todoList: [
-        { id: 0, name: 'Early awakening', checked: true },
-        { id: 1, name: 'Exercise', checked: false },
-        { id: 2, name: 'Heavy Breakfast', checked: true },
-        { id: 3, name: 'Going office on time', checked: true },
-        { id: 4, name: 'Take healthy lunch', checked: false },
-        { id: 5, name: 'Have sound sleep', checked: true }
+    'todoName': 'Morning Activities',
+    'todoList': [
+        { 'id': 0, 'name': 'Early awakening', 'checked': true },
+        { 'id': 1, 'name': 'Exercise', 'checked': false },
+        { 'id': 2, 'name': 'Heavy Breakfast', 'checked': true },
+        { 'id': 3, 'name': 'Going office on time', 'checked': true },
+        { 'id': 4, 'name': 'Take healthy lunch', 'checked': false },
+        { 'id': 5, 'name': 'Have sound sleep', 'checked': true }
     ]
 }
